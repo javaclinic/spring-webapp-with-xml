@@ -1,0 +1,17 @@
+#
+# .gitignore
+#
+# Defines files and directories to be ignored by the git repository
+#
+
+# Maven-specific directories
+target/
+bin/
+
+# Eclipse-specific files and directories
+.classpath
+.project
+.settings/
+
+# MAC files
+.DS_Store
